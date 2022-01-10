@@ -1,6 +1,3 @@
-            h1{
-                cursor: pointer;
-            }
             header{
                 text-align: center;
                 background: rgb(177, 177, 13);
@@ -65,4 +62,7 @@
             }
             #finn:hover{
                 color: #F7DC6F;
+            }
+            body{
+                cursor: default;
             }
